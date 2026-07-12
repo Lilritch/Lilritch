@@ -24,14 +24,6 @@ I build and document practical systems that connect IT operations, cybersecurity
 
 ---
 
-## Professional Summary
-
-I work in IT systems support and build technical projects around cybersecurity, detection engineering, secure communication, machine-learning security, and operational dashboards.
-
-My GitHub is organized as a professional portfolio: it shows hands-on work with APIs, dashboards, security monitoring, intrusion detection, explainable machine learning, encrypted communication, and automation. The goal is to make my technical background easy to understand for reviewers, employers, collaborators, and formal application reviewers who want a clear picture of my skills and project history.
-
----
-
 ## Current Focus
 
 - IT systems support and operational reliability
