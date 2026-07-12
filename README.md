@@ -2,16 +2,21 @@
 
 # Lilritch
 
-### Cybersecurity Student • Threat Hunting • Backend & Dashboard Engineering
+### IT Systems Officer • Cybersecurity & Systems Support • Python Security Tools
 
-I build security-focused tools with Python, FastAPI, Streamlit, and data-driven detection logic.
+Currently working as an **IT Systems Officer at [Vida Amoah Agrochemicals](https://vidaagrochemicals.com/)**.
+
+I build and document practical systems that connect IT operations, cybersecurity, automation, data analysis, and analyst-friendly dashboards.
 
 <p>
   <a href="mailto:frimzyrichie@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Lilritch">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Lilritch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://vidaagrochemicals.com/">
+    <img src="https://img.shields.io/badge/Current_Role-IT_Systems_Officer-2E7D32?style=for-the-badge" alt="Current role">
   </a>
 </p>
 
@@ -19,45 +24,70 @@ I build security-focused tools with Python, FastAPI, Streamlit, and data-driven 
 
 ---
 
-## About Me
+## Professional Summary
 
-I am focused on cybersecurity engineering, threat detection, backend systems, and practical security dashboards. My work combines Python automation, API development, data analysis, and analyst-friendly interfaces.
+I work in IT systems support and build technical projects around cybersecurity, detection engineering, secure communication, machine-learning security, and operational dashboards.
 
-Current focus:
-
-- Threat hunting and detection engineering
-- MITRE ATT&CK mapping
-- Security automation with Python
-- FastAPI backend development
-- Streamlit dashboards for security workflows
-- Clean documentation and portfolio-ready projects
+My GitHub is organized as a professional portfolio: it shows hands-on work with APIs, dashboards, security monitoring, intrusion detection, explainable machine learning, encrypted communication, and automation. The goal is to make my technical background easy to understand for reviewers, employers, collaborators, and formal application reviewers who want a clear picture of my skills and project history.
 
 ---
 
-## Featured Project
+## Current Focus
 
-### Threat Hunter
-
-Automated threat hunting platform that simulates security telemetry, runs detection hypotheses, maps findings to MITRE ATT&CK, and visualizes activity through a Streamlit SOC dashboard.
-
-**Technologies:** Python, FastAPI, Streamlit, Pandas, Plotly, APScheduler, Pytest
-
-**Highlights:**
-
-- Manual and scheduled threat hunts
-- Live event ingestion
-- MITRE ATT&CK enrichment
-- Severity-based findings
-- Dashboard for SOC-style review
-- API endpoints for automation
+- IT systems support and operational reliability
+- Cybersecurity monitoring and detection engineering
+- Python automation for security workflows
+- FastAPI services and Streamlit dashboards
+- MITRE ATT&CK-style threat hunting
+- Intrusion detection, malware analysis, and phishing protection
+- Responsible and explainable machine-learning systems
 
 ---
 
-## Projects
+## Featured Security & Systems Projects
 
-| Project | Description | Stack |
+| Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| Threat Hunter | Automated threat hunting platform with MITRE mapping and dashboard | Python, FastAPI, Streamlit |
+| [Threat Hunter](https://github.com/Lilritch/threat-hunter) | Automated threat hunting platform with simulated telemetry, MITRE ATT&CK mapping, findings, API endpoints, and SOC-style dashboard | Python, FastAPI, Streamlit, Pandas |
+| [XAI Security Model](https://github.com/Lilritch/xai-security-model) | Explainable intrusion detection with model predictions, SHAP/LIME explanations, API serving, and an analyst dashboard | Python, XGBoost, SHAP, LIME, FastAPI, Streamlit |
+| [Real-Time IDS](https://github.com/Lilritch/realtime-ids) | IDS/SIEM-style dashboard using Zeek-style flow logs, Suricata alerts, Redis alert storage, and live browser updates | Python, Flask, Redis, Socket.IO, Chart.js |
+| [SentinelIQ](https://github.com/Lilritch/sentineliq) | Security analytics project structure with API, dashboard, data, models, documentation, and tests | Python, API, Dashboard, ML |
+| [PhishGuard Extension](https://github.com/Lilritch/phishguard-extension) | Browser/email threat protection concept for detecting phishing, spam, and suspicious Gmail content | Python, Browser Security |
+| [Malware Classifier](https://github.com/Lilritch/malware-classifierr) | Malware classification workflow with backend, dashboard, data, and feature processing components | Python, ML, Security Analytics |
+| [Deepfake Detector](https://github.com/Lilritch/deepfake-detector) | Media authenticity and deepfake detection workflow with data, models, reports, and dashboard structure | Python, ML, Dashboard |
+| [Encrypted Chat Demo](https://github.com/Lilritch/Encrypted-chat-demo) | Secure communication concept focused on encrypted messaging | Python, Cryptography |
+| [SMPC](https://github.com/Lilritch/SMPC) | Secure multi-party computation project with API, dashboard, tests, and privacy-focused system design | Python, Privacy Engineering |
+| [Model Fairness Audit](https://github.com/Lilritch/model-fairness-audit) | Fairness, explainability, and proxy-bias auditing workflow for machine-learning decision systems | Python, Fairlearn, SHAP, FastAPI, Streamlit |
+| [Web3 File Storage](https://github.com/Lilritch/web3-file-storage) | Decentralized file-storage concept inspired by cloud drive workflows | JavaScript, Web3 |
+
+---
+
+## Professional Project Themes
+
+### IT Systems & Operations
+
+- Systems support mindset
+- Operational dashboards
+- API-backed tools
+- Documentation-first project presentation
+- Troubleshooting and service-oriented workflows
+
+### Cybersecurity Engineering
+
+- Threat hunting
+- Intrusion detection systems
+- Phishing detection
+- Malware classification
+- Secure communication
+- MITRE ATT&CK-style mapping
+
+### Data, ML & Responsible Systems
+
+- Explainable AI for security decisions
+- Model fairness and bias auditing
+- Security analytics dashboards
+- Reproducible ML workflows
+- Human-readable analyst summaries
 
 ---
 
@@ -66,14 +96,24 @@ Automated threat hunting platform that simulates security telemetry, runs detect
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,html,css" alt="Languages">
 </p>
 
-### Frameworks & Tools
+### Frameworks, Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,git,github,docker,linux" alt="Frameworks and tools">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,git,github,docker,linux,mongodb" alt="Frameworks and tools">
 </p>
+
+### Areas I Work Across
+
+| Area | Tools and concepts |
+| --- | --- |
+| Backend systems | FastAPI, Flask, REST APIs, Pydantic |
+| Dashboards | Streamlit, Plotly, Chart.js |
+| Security analytics | IDS workflows, threat hunting, phishing detection, malware classification |
+| Data and ML | Pandas, scikit-learn, XGBoost, SHAP, LIME, Fairlearn |
+| Operations | Linux, Git, documentation, testing, service workflows |
 
 ---
 
@@ -90,15 +130,13 @@ Automated threat hunting platform that simulates security telemetry, runs detect
 
 ---
 
-## Research & Learning Interests
+## What Reviewers Should Notice
 
-- Threat hunting
-- Security monitoring
-- Detection engineering
-- Network intrusion detection
-- Digital forensics fundamentals
-- Backend systems for security tools
-- Data visualization for analysts
+- I currently work in a real IT systems role.
+- I can build working backend services, dashboards, and security tooling.
+- I document projects clearly so the purpose, architecture, setup, and limitations are understandable.
+- My public repositories show consistent interest in cybersecurity, systems support, data analysis, and responsible technical systems.
+- My work is broad enough for IT operations, security support, backend development, and security analytics roles.
 
 ---
 
@@ -110,5 +148,8 @@ Automated threat hunting platform that simulates security telemetry, runs detect
   </a>
   <a href="https://github.com/Lilritch">
     <img src="https://img.shields.io/badge/GitHub-Lilritch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://vidaagrochemicals.com/">
+    <img src="https://img.shields.io/badge/Vida_Amoah_Agrochemicals-Website-2E7D32?style=for-the-badge" alt="Vida Amoah Agrochemicals">
   </a>
 </p>
