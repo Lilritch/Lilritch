@@ -122,16 +122,6 @@ I build and document practical systems that connect IT operations, cybersecurity
 
 ---
 
-## What Reviewers Should Notice
-
-- I currently work in a real IT systems role.
-- I can build working backend services, dashboards, and security tooling.
-- I document projects clearly so the purpose, architecture, setup, and limitations are understandable.
-- My public repositories show consistent interest in cybersecurity, systems support, data analysis, and responsible technical systems.
-- My work is broad enough for IT operations, security support, backend development, and security analytics roles.
-
----
-
 ## Connect
 
 <p align="center">
