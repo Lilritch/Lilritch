@@ -1,137 +1,116 @@
 <div align="center">
 
-# Lilritch
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=185&section=header&text=Richard%20Frimpong&fontColor=c0caf5&fontSize=44&animation=fadeIn&fontAlignY=35" alt="Richard Frimpong banner" width="100%" />
 
-### IT Systems Officer • Cybersecurity & Systems Support • Python Security Tools
-
-Currently working as an **IT Systems Officer at [Vida Amoah Agrochemicals](https://vidaagrochemicals.com/)**.
-
-I build and document practical systems that connect IT operations, cybersecurity, automation, data analysis, and analyst-friendly dashboards.
-
-<p>
-  <a href="mailto:frimzyrichie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Lilritch">
-    <img src="https://img.shields.io/badge/GitHub-Lilritch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://vidaagrochemicals.com/">
-    <img src="https://img.shields.io/badge/Current_Role-IT_Systems_Officer-2E7D32?style=for-the-badge" alt="Current role">
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Freelance+%26+Open-Source+Developer;Web3+%2F+Blockchain+Enthusiast;Building+Encrypted+%26+E-Commerce+Applications;Turning+Ideas+Into+Practical+Digital+Products" alt="Typing introduction" />
+</a>
 
 </div>
 
 ---
 
-## Current Focus
+<div align="center">
 
-- IT systems support and operational reliability
-- Cybersecurity monitoring and detection engineering
-- Python automation for security workflows
-- FastAPI services and Streamlit dashboards
-- MITRE ATT&CK-style threat hunting
-- Intrusion detection, malware analysis, and phishing protection
-- Responsible and explainable machine-learning systems
+## About Me
 
----
+</div>
 
-## Featured Security & Systems Projects
-
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Threat Hunter](https://github.com/Lilritch/threat-hunter) | Automated threat hunting platform with simulated telemetry, MITRE ATT&CK mapping, findings, API endpoints, and SOC-style dashboard | Python, FastAPI, Streamlit, Pandas |
-| [XAI Security Model](https://github.com/Lilritch/xai-security-model) | Explainable intrusion detection with model predictions, SHAP/LIME explanations, API serving, and an analyst dashboard | Python, XGBoost, SHAP, LIME, FastAPI, Streamlit |
-| [Real-Time IDS](https://github.com/Lilritch/realtime-ids) | IDS/SIEM-style dashboard using Zeek-style flow logs, Suricata alerts, Redis alert storage, and live browser updates | Python, Flask, Redis, Socket.IO, Chart.js |
-| [SentinelIQ](https://github.com/Lilritch/sentineliq) | Security analytics project structure with API, dashboard, data, models, documentation, and tests | Python, API, Dashboard, ML |
-| [PhishGuard Extension](https://github.com/Lilritch/phishguard-extension) | Browser/email threat protection concept for detecting phishing, spam, and suspicious Gmail content | Python, Browser Security |
-| [Malware Classifier](https://github.com/Lilritch/malware-classifierr) | Malware classification workflow with backend, dashboard, data, and feature processing components | Python, ML, Security Analytics |
-| [Deepfake Detector](https://github.com/Lilritch/deepfake-detector) | Media authenticity and deepfake detection workflow with data, models, reports, and dashboard structure | Python, ML, Dashboard |
-| [Encrypted Chat Demo](https://github.com/Lilritch/Encrypted-chat-demo) | Secure communication concept focused on encrypted messaging | Python, Cryptography |
-| [SMPC](https://github.com/Lilritch/SMPC) | Secure multi-party computation project with API, dashboard, tests, and privacy-focused system design | Python, Privacy Engineering |
-| [Model Fairness Audit](https://github.com/Lilritch/model-fairness-audit) | Fairness, explainability, and proxy-bias auditing workflow for machine-learning decision systems | Python, Fairlearn, SHAP, FastAPI, Streamlit |
-| [Web3 File Storage](https://github.com/Lilritch/web3-file-storage) | Decentralized file-storage concept inspired by cloud drive workflows | JavaScript, Web3 |
+I am a freelance and open-source developer interested in practical products at the
+intersection of Web3, privacy, and commerce. I build and explore encrypted
+applications, blockchain-enabled tools, and digital platforms for e-commerce and
+solar-related businesses. My focus is clear product thinking, reliable engineering,
+and software that gives users more control over their data and transactions.
 
 ---
 
-## Professional Project Themes
+<div align="center">
 
-### IT Systems & Operations
+## Tech Stack
 
-- Systems support mindset
-- Operational dashboards
-- API-backed tools
-- Documentation-first project presentation
-- Troubleshooting and service-oriented workflows
+<img src="https://skillicons.dev/icons?i=solidity,react,python,jest" alt="Solidity, React, Python, and Jest" />
+<br />
+<img src="https://img.shields.io/badge/Pytest-1A1B26?style=for-the-badge&logo=pytest&logoColor=7AA2F7" alt="Pytest" />
 
-### Cybersecurity Engineering
-
-- Threat hunting
-- Intrusion detection systems
-- Phishing detection
-- Malware classification
-- Secure communication
-- MITRE ATT&CK-style mapping
-
-### Data, ML & Responsible Systems
-
-- Explainable AI for security decisions
-- Model fairness and bias auditing
-- Security analytics dashboards
-- Reproducible ML workflows
-- Human-readable analyst summaries
+</div>
 
 ---
 
-## Technologies
+<div align="center">
 
-### Languages
+## Currently Working On
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,html,css" alt="Languages">
-</p>
+</div>
 
-### Frameworks, Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,git,github,docker,linux,mongodb" alt="Frameworks and tools">
-</p>
-
-### Areas I Work Across
-
-| Area | Tools and concepts |
-| --- | --- |
-| Backend systems | FastAPI, Flask, REST APIs, Pydantic |
-| Dashboards | Streamlit, Plotly, Chart.js |
-| Security analytics | IDS workflows, threat hunting, phishing detection, malware classification |
-| Data and ML | Pandas, scikit-learn, XGBoost, SHAP, LIME, Fairlearn |
-| Operations | Linux, Git, documentation, testing, service workflows |
+- Privacy-conscious encrypted application ideas and secure communication workflows
+- Web3 and blockchain experiments for decentralized products
+- Solar and e-commerce platform concepts that simplify real-world transactions
+- Open-source tooling, testing, and developer experience improvements
 
 ---
+
+<div align="center">
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lilritch&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilritch&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Lilritch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilritch&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Lilritch&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lilritch&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
-</p>
+</div>
 
 ---
 
+<div align="center">
+
+## Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lilritch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Lilritch/Lilritch/main/dist/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## Connect
 
-<p align="center">
-  <a href="mailto:frimzyrichie@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Lilritch">
-    <img src="https://img.shields.io/badge/GitHub-Lilritch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://vidaagrochemicals.com/">
-    <img src="https://img.shields.io/badge/Vida_Amoah_Agrochemicals-Website-2E7D32?style=for-the-badge" alt="Vida Amoah Agrochemicals">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" />
+</a>
+<a href="https://x.com/YOUR-X-HANDLE">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-1A1B26?style=for-the-badge&logo=x&logoColor=7AA2F7" alt="X or Twitter" />
+</a>
+<a href="https://YOUR-PORTFOLIO-SITE.example">
+  <img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Lilritch&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=120&section=footer" alt="Footer wave" width="100%" />
