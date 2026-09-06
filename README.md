@@ -17,7 +17,7 @@
 </div>
 
 I work as an IT Systems Manager at
-[Vida Amoah Agrochemicals](https://vidaagrochemicals.com/), where I manage and secure
+[Vida Asamoah Agrochemicals](https://vidaagrochemicals.com/), where I manage and secure
 business websites and support dependable digital operations. Alongside my day-to-day
 role, I work as a freelance and open-source developer interested in Web3, encrypted
 applications, and e-commerce and solar-related platforms. My focus is secure web
@@ -33,6 +33,12 @@ over their data and transactions.
 <img src="https://skillicons.dev/icons?i=solidity,react,python,jest" alt="Solidity, React, Python, and Jest" />
 <br />
 <img src="https://img.shields.io/badge/Pytest-1A1B26?style=for-the-badge&logo=pytest&logoColor=7AA2F7" alt="Pytest" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" alt="Linux, Bash, Docker, Git, and GitHub" />
+<br />
+<img src="https://img.shields.io/badge/Nmap-1A1B26?style=for-the-badge&logo=nmap&logoColor=7AA2F7" alt="Nmap" />
+<img src="https://img.shields.io/badge/Wireshark-1A1B26?style=for-the-badge&logo=wireshark&logoColor=7AA2F7" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Burp_Suite-1A1B26?style=for-the-badge&logo=burpsuite&logoColor=7AA2F7" alt="Burp Suite" />
 
 </div>
 
@@ -44,7 +50,7 @@ over their data and transactions.
 
 </div>
 
-- Managing and securing business websites at Vida Amoah Agrochemicals
+- Managing and securing business websites at Vida Asamoah Agrochemicals
 - Improving IT systems, web operations, reliability, and security practices
 - Privacy-conscious encrypted application ideas and secure communication workflows
 - Web3, e-commerce, and solar-platform concepts for practical transactions
@@ -88,8 +94,6 @@ over their data and transactions.
 ---
 
 <div align="center">
-
-## Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Lilritch/Lilritch/main/dist/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
 
