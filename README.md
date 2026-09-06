@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=185&section=header&text=Richard%20Frimpong&fontColor=c0caf5&fontSize=44&animation=fadeIn&fontAlignY=35" alt="Richard Frimpong banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=185&section=header&text=IT%20Systems%20Manager&fontColor=c0caf5&fontSize=44&animation=fadeIn&fontAlignY=35" alt="IT Systems Manager banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Freelance+%26+Open-Source+Developer;Web3+%2F+Blockchain+Enthusiast;Building+Encrypted+%26+E-Commerce+Applications;Turning+Ideas+Into+Practical+Digital+Products" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=IT+Systems+Manager+%7C+Web+Security+%7C+Platform+Operations;Managing+and+Securing+Business+Websites;Freelance+%26+Open-Source+Developer;Web3+%2F+Blockchain+and+Encrypted+Application+Explorer" alt="Typing introduction" />
 </a>
 
 </div>
@@ -16,11 +16,13 @@
 
 </div>
 
-I am a freelance and open-source developer interested in practical products at the
-intersection of Web3, privacy, and commerce. I build and explore encrypted
-applications, blockchain-enabled tools, and digital platforms for e-commerce and
-solar-related businesses. My focus is clear product thinking, reliable engineering,
-and software that gives users more control over their data and transactions.
+I work as an IT Systems Manager at
+[Vida Amoah Agrochemicals](https://vidaagrochemicals.com/), where I manage and secure
+business websites and support dependable digital operations. Alongside my day-to-day
+role, I work as a freelance and open-source developer interested in Web3, encrypted
+applications, and e-commerce and solar-related platforms. My focus is secure web
+delivery, practical systems administration, and software that gives users control
+over their data and transactions.
 
 ---
 
@@ -42,10 +44,10 @@ and software that gives users more control over their data and transactions.
 
 </div>
 
+- Managing and securing business websites at Vida Amoah Agrochemicals
+- Improving IT systems, web operations, reliability, and security practices
 - Privacy-conscious encrypted application ideas and secure communication workflows
-- Web3 and blockchain experiments for decentralized products
-- Solar and e-commerce platform concepts that simplify real-world transactions
-- Open-source tooling, testing, and developer experience improvements
+- Web3, e-commerce, and solar-platform concepts for practical transactions
 
 ---
 
@@ -56,10 +58,10 @@ and software that gives users more control over their data and transactions.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Lilritch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lilritch&theme=tokyonight" alt="GitHub statistics" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilritch&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lilritch&theme=tokyonight" alt="Top languages" />
     </td>
   </tr>
   <tr>
@@ -75,9 +77,11 @@ and software that gives users more control over their data and transactions.
 
 <div align="center">
 
-## Trophies
+## GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lilritch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+<a href="https://github.com/Lilritch?tab=achievements">
+  <img src="https://img.shields.io/badge/View_GitHub_Achievements-1A1B26?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="View GitHub achievements" />
+</a>
 
 </div>
 
