@@ -34,11 +34,14 @@ over their data and transactions.
 <br />
 <img src="https://img.shields.io/badge/Pytest-1A1B26?style=for-the-badge&logo=pytest&logoColor=7AA2F7" alt="Pytest" />
 <br /><br />
+<strong>Security &amp; Infrastructure Tooling</strong>
+<br /><br />
 <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github" alt="Linux, Bash, Docker, Git, and GitHub" />
 <br />
 <img src="https://img.shields.io/badge/Nmap-1A1B26?style=for-the-badge&logo=nmap&logoColor=7AA2F7" alt="Nmap" />
 <img src="https://img.shields.io/badge/Wireshark-1A1B26?style=for-the-badge&logo=wireshark&logoColor=7AA2F7" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Burp_Suite-1A1B26?style=for-the-badge&logo=burpsuite&logoColor=7AA2F7" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/OWASP-1A1B26?style=for-the-badge&logo=owasp&logoColor=7AA2F7" alt="OWASP" />
 
 </div>
 
