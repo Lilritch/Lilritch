@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=185&section=header&text=IT%20Systems%20Manager&fontColor=c0caf5&fontSize=44&animation=fadeIn&fontAlignY=35" alt="IT Systems Manager banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3b4261,100:7aa2f7&height=185&section=header&text=IT%20Systems%20Officer&fontColor=c0caf5&fontSize=44&animation=fadeIn&fontAlignY=35" alt="IT Systems Officer banner" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=IT+Systems+Manager+%7C+Web+Security+%7C+Platform+Operations;Managing+and+Securing+Business+Websites;Freelance+%26+Open-Source+Developer;Web3+%2F+Blockchain+and+Encrypted+Application+Explorer" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=IT+Systems+Officer+%7C+Web+Security+%7C+Platform+Operations;Managing+and+Securing+Business+Websites;Freelance+%26+Open-Source+Developer;Web3+%2F+Blockchain+and+Encrypted+Application+Explorer" alt="Typing introduction" />
 </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 </div>
 
-I work as an IT Systems Manager at
+I work as an IT Systems Officer at
 [Vida Asamoah Agrochemicals](https://vidaagrochemicals.com/), where I manage and secure
 business websites and support dependable digital operations. Alongside my day-to-day
 role, I work as a freelance and open-source developer interested in Web3, encrypted
